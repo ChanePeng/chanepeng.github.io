@@ -3,6 +3,5 @@ layout: default
 title: Home
 ---
 
-# Hello world!
-
-Welcome to my site.
+# Hi,I'm Chane
+## Let's learn together!
